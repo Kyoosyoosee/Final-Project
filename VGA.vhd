@@ -1,4 +1,4 @@
--- Alex Rinker
+-- Shawn Jiang
 -- VGA Display Main Component
 
 library ieee;

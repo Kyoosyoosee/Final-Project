@@ -1,4 +1,4 @@
--- Alex Rinker
+-- Shawn Jiang
 -- VGA Controller
 -- Filename: VGAController
 -- This Controller is made for use with a resolution
